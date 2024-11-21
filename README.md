@@ -1,5 +1,3 @@
-Aquí tienes la taula amb els enllaços inclosos:
-
 | **Proveïdor**   | **Espai d'emmagatzematge** | **Ample de banda** | **Dominis i Subdominis** | **Certificat SSL** | **Publicitat** | **Altres Característiques**                         | **Enllaç**                     |
 |------------------|---------------------------|--------------------|--------------------------|--------------------|----------------|----------------------------------------------------|---------------------------------|
 | **WIX**          | 500 MB                   | 500 MB             | Dominis sí               | Sí                 | No             | Protecció DDoS                                     | [Visitar WIX](https://www.wix.com/) |
